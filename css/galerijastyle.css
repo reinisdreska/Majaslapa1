@@ -1,0 +1,12 @@
+.mainbox{
+    background-color: bisque;
+    width: 800px;
+    height:500px;
+    margin: 0px;
+}
+
+.box{
+    background-color: lightslategray;
+    width: 800px;
+    height: 500px;
+}
